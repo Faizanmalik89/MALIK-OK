@@ -13,4 +13,4 @@ cd MALIK-OK
 
 ls
 
-python MALIK2.py
+python MALIK.py
